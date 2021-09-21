@@ -1,0 +1,21 @@
+---
+title: "Descriptive Statistics of Behavior Data of Cows"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Descriptive Statistics of Behavior Data of Cows}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(sedestat)
+```
+
+# Disclaimer
